@@ -236,7 +236,7 @@ h1 span { color: var(--accent); }
   background: #0e0e0e;
   padding: .5rem .45rem .38rem;
 }
-.stats h3 { font-family: Anton, sans-serif; font-size: 2rem; color: var(--accent); line-height: 1; margin: 0; }
+.stats h3, .stats .metric-value { font-family: Anton, sans-serif; font-size: 2rem; color: var(--accent); line-height: 1; margin: 0; }
 .metric-title { color: var(--muted); font-size: .75rem; line-height: 1.1; margin: .24rem 0 0; font-weight: 700; }
 .metric-sub { color: #a8a8a8; font-size: .68rem; line-height: 1.2; letter-spacing: .01em; margin: .1rem 0 0; }
 .stat-link {
