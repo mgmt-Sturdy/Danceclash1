@@ -1,6 +1,7 @@
 {
   "rewrites": [
-    { "source": "/privacy", "destination": "/privacy.html" }
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/favicon.ico", "destination": "/assets/favicon-192.png" }
   ],
   "headers": [
     {
