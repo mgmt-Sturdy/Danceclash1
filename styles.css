@@ -590,6 +590,15 @@ h2 {
   color: #9d9d9d;
   padding-bottom: 2.3rem;
 }
+.site-footer a {
+  color: #9d9d9d;
+  text-decoration: none;
+  margin-left: 1rem;
+  transition: color 0.2s;
+}
+.site-footer a:hover {
+  color: var(--text);
+}
 
 .scroll-progress {
   position: fixed;
